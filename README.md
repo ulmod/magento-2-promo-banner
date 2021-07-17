@@ -1,8 +1,8 @@
 # Magento 2 Promotion Banners Extension
 
-[Magento 2 Promotion Banners](https://www.ulmod.com/promotion-banners-for-magento-2.html) is a  Magento 2 extension that allows you to display promotions banners, announcements, notification bars, or any marketing message at your store pages to let customers be aware of all promo offers.
+[Magento 2 Promotion Banners](https://www.ulmod.com/promotion-banners-for-magento-2.html) is a  Magento 2 extension that allows you to display promotions banners, announcements, notification bars, or any marketing message at your store pages to informs shoppers of all promo offers.
 
-With Magento 2 Promotion Banners you can create an unlimited number of promo bars/banner/content,  and display them at any page/position of your Magento 2 site. 
+With Magento 2 Promotion Banners you can create an unlimited number of promo bars/banner/content, and display them at any page/position of your Magento 2 site. 
 
 <a href="https://www.ulmod.com/promotion-banners-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
